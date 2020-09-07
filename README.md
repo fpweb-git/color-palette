@@ -1,1 +1,1 @@
-color palette
+color palette picker javascript
